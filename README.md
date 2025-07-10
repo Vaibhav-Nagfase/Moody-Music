@@ -125,8 +125,6 @@ service cloud.firestore {
 
 ## 🖼️ Screenshots
 
-| Sign Up | Login | Mood Screen  | AI Screen | Spotify Songs | Playlist | Mood Diary & Insights | DRAWER AND BOTTOM SHEET
-|--------|----------|------|--------|--------|
 | <img src="screenshots/SIGN_UP.png" width="250"/> | <img src="screenshots/LOGIN.png" width="250"/> | <img src="screenshots/MOOD_SCREEN.png" width="250"/> | <img src="screenshots/AI_SCREEN.png" width="250"/><img src="screenshots/AI_SCREEN2.png" width="250"/><img src="screenshots/AI_SCREEN3.png" width="250"/> | <img src="screenshots/SONG_SCREEN.png" width="250"/> <img src="screenshots/SONG_SCREEN2.png" width="250"/> | <img src="screenshots/PLAYLIST_SCREEN.png" width="250"/> | <img src="screenshots/WEEKLY_MOOD.png" width="250"/><img src="screenshots/INSIGHTS.png" width="250"/><img src="screenshots/MONTHLY_MOOD.png" width="250"/><img src="screenshots/YEARLY_MOOD.png" width="250"/> | <img src="screenshots/DRAWER_SCREEN.png" width="250"/><img src="screenshots/BOTTOM_SHEET.png" width="250"/>
 
 ---
